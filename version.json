@@ -1,0 +1,38 @@
+{
+    "manifest_version":  1,
+    "apps":  [
+                 {
+                     "id":  "phone_analysis",
+                     "match_name":  "SPNI Phone Analysis",
+                     "display_name":  "SPNI Phone Analysis",
+                     "latest_version":  "2.6.0",
+                     "installer_url":  "https://github.com/kwangkomin-maker/spni-updates/releases/download/v1/SPNI_Phone_Analysis_Setup_v2.6.0.exe",
+                     "sha256":  "0e5a29501efcb403a18f0f4f46975db0ce539ff9141c835f6a3fa15825dda544",
+                     "size_bytes":  179454364,
+                     "silent_args":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /NOCANCEL /MERGETASKS=desktopicon",
+                     "changelog":  "อัปเดตเวอร์ชัน 2.6.0"
+                 },
+                 {
+                     "id":  "cctv_ai",
+                     "match_name":  "SPNI CCTV.AI",
+                     "display_name":  "SPNI CCTV.AI",
+                     "latest_version":  "2.1.0",
+                     "installer_url":  "https://github.com/kwangkomin-maker/spni-updates/releases/download/v1/SPIN_CCTV_AI_Standalone_v2.1.exe",
+                     "sha256":  "3708b61559c9deb284857ad29e874caef3e4da33384e7dd002f9b7419b73e12f",
+                     "size_bytes":  578849075,
+                     "silent_args":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /NOCANCEL /MERGETASKS=desktopicon",
+                     "changelog":  "อัปเดตเวอร์ชัน 2.1.0"
+                 },
+                 {
+                     "id":  "bank_tx",
+                     "match_name":  "SPNI Bank Transaction Processor",
+                     "display_name":  "SPNI Bank Transaction Processor",
+                     "latest_version":  "2.3",
+                     "installer_url":  "https://github.com/kwangkomin-maker/spni-updates/releases/download/v1/SPNI_Bank_Transaction_Processor_Setup_v2.3.exe",
+                     "sha256":  "62f429cfc274adcca18247dc76f9c49bdcaa312bb4bdadf424a4db747cfea2cd",
+                     "size_bytes":  271124051,
+                     "silent_args":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /NOCANCEL /MERGETASKS=desktopicon",
+                     "changelog":  "อัปเดตเวอร์ชัน 2.3"
+                 }
+             ]
+}
