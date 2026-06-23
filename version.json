@@ -5,12 +5,12 @@
                      "id":  "phone_analysis",
                      "match_name":  "SPNI Phone Analysis",
                      "display_name":  "SPNI Phone Analysis",
-                     "latest_version":  "2.6.0",
-                     "installer_url":  "https://github.com/kwangkomin-maker/spni-updates/releases/download/v1/SPNI_Phone_Analysis_Setup_v2.6.0.exe",
-                     "sha256":  "0e5a29501efcb403a18f0f4f46975db0ce539ff9141c835f6a3fa15825dda544",
-                     "size_bytes":  179454364,
+                     "latest_version":  "2.6.2",
+                     "installer_url":  "https://github.com/kwangkomin-maker/spni-updates/releases/download/v1/SPNI_Phone_Analysis_Setup_v2.6.2.exe",
+                     "sha256":  "047dcc5330a1defa7997cd1935b73c24c5bbd99d617e4a9e09d5bab0c47f4669",
+                     "size_bytes":  179465095,
                      "silent_args":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /NOCANCEL /MERGETASKS=desktopicon",
-                     "changelog":  "อัปเดตเวอร์ชัน 2.6.0"
+                     "changelog":  "อัปเดตเวอร์ชัน 2.6.2"
                  },
                  {
                      "id":  "cctv_ai",
