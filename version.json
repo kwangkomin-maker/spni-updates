@@ -10,7 +10,8 @@
                      "sha256":  "047dcc5330a1defa7997cd1935b73c24c5bbd99d617e4a9e09d5bab0c47f4669",
                      "size_bytes":  179465095,
                      "silent_args":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /NOCANCEL /MERGETASKS=desktopicon",
-                     "changelog":  "อัปเดตเวอร์ชัน 2.6.2"
+                     "changelog":  "อัปเดตเวอร์ชัน 2.6.2",
+                     "force_update":  false
                  },
                  {
                      "id":  "cctv_ai",
@@ -21,18 +22,20 @@
                      "sha256":  "3708b61559c9deb284857ad29e874caef3e4da33384e7dd002f9b7419b73e12f",
                      "size_bytes":  578849075,
                      "silent_args":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /NOCANCEL /MERGETASKS=desktopicon",
-                     "changelog":  "อัปเดตเวอร์ชัน 2.1.0"
+                     "changelog":  "อัปเดตเวอร์ชัน 2.1.0",
+                     "force_update":  false
                  },
                  {
                      "id":  "bank_tx",
                      "match_name":  "SPNI Bank Transaction Processor",
                      "display_name":  "SPNI Bank Transaction Processor",
-                     "latest_version":  "2.3",
-                     "installer_url":  "https://github.com/kwangkomin-maker/spni-updates/releases/download/v1/SPNI_Bank_Transaction_Processor_Setup_v2.3.exe",
-                     "sha256":  "62f429cfc274adcca18247dc76f9c49bdcaa312bb4bdadf424a4db747cfea2cd",
-                     "size_bytes":  271124051,
+                     "latest_version":  "2.3.1",
+                     "installer_url":  "https://github.com/kwangkomin-maker/spni-updates/releases/download/v1/SPNI_Bank_Transaction_Processor_Setup_v2.3.1.exe",
+                     "sha256":  "61590504b0265920a214d2df84ebd3618d041590e30df388bd3ca0783bbd37a3",
+                     "size_bytes":  271117490,
                      "silent_args":  "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /NOCANCEL /MERGETASKS=desktopicon",
-                     "changelog":  "อัปเดตเวอร์ชัน 2.3"
+                     "changelog":  "อัปเดตเวอร์ชัน 2.3.1",
+                     "force_update":  true
                  }
              ]
 }
